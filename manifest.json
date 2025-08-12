@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "Projekt A",
+      "zipUrl": ""
+    },
+    {
+      "name": "Projekt B",
+      "zipUrl": ""
+    }
+  ]
+}
