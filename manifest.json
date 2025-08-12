@@ -2,11 +2,11 @@
   "projects": [
     {
       "name": "Projekt A",
-      "zipUrl": ""
+      "zipUrl": "https://github.com/dino-sh/mmr/raw/refs/heads/main/projekt-a.zip"
     },
     {
       "name": "Projekt B",
-      "zipUrl": ""
+      "zipUrl": "https://github.com/dino-sh/mmr/raw/refs/heads/main/projekt-b.zip"
     }
   ]
 }
